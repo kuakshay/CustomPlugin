@@ -1,0 +1,16 @@
+{
+  "name": "barcodescanplugin",
+  "version": "1.0.0",
+  "description": "This is my first plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ionic",
+    "Custom",
+    "Plugin"
+  ],
+  "author": "Akshay Kumar",
+  "license": "ISC"
+}
